@@ -1,6 +1,7 @@
 #0x02. C - Functions, nested loops
 ```
 aceyinc 2023
+https://twitter.com/aceyink
 ```
 
 Nested while loops
